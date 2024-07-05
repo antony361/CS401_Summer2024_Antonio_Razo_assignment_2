@@ -1,7 +1,7 @@
 public class ECommerceApp {
     public static void main(String[] args) {
         // Create instances of products
-        Book book1 = new Book("B001", "The Great Gatsby", 10.99, "F. Scott Fitzgerald", "Classic");
+        Book book1 = new Book("B001", "Hunger Games", 10.99, "Suzanne Collins", "Adventure");
         Electronics electronics1 = new Electronics("E001", "iPhone 15", 899.99, "Apple", 24);
         Clothing clothing1 = new Clothing("C001", "T-Shirt", 19.99, "L", "Silk");
 
